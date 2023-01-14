@@ -12,3 +12,4 @@
 # Dataset directories that were downloaded
 cifar-10-batches-py
 MNIST
+flickr8k
